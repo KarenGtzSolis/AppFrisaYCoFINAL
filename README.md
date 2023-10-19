@@ -23,7 +23,7 @@ https://github.com/carotopia/AndroidAPI
 
 Para descargar este proyecto, siga los siguientes pasos:
 
-1. Abra la terminal y ejecuta el siguiente comando para clonar el repositorio: git clone https://github.com/KarenGtzSolis/APPFRISA2.0.git
+1. Abra la terminal y ejecuta el siguiente comando para clonar el repositorio: git clone https://github.com/KarenGtzSolis/AppFrisaYCoFINAL.git
 
 2. Asegurar que el proyecto este conectado al internet
 
